@@ -1,3 +1,6 @@
+Name: Coco Ren
+
+
 # Year-11-CS-Unit-7-Tutorial-ClassSection
 
 Your job is to create two classes called ClassSection and Student. 
@@ -23,5 +26,3 @@ The isStudentEnrolled() method will check to see if an identical student already
 
 Goodluck, have fun! :)
 
-
-Name: Coco Ren
